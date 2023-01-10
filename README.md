@@ -11,3 +11,6 @@ Testing
 
 ## Copyright Notice
 Details are updated in Simple.html file
+
+
+## Quick fix after stash
